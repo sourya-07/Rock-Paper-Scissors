@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+button {
+    margin: 10px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    background-color: black;
+    border-radius: 50%;
+    border: 2px white solid;
+}
+h1 {
+    color: white;
+}
+.tracker {
+    color: white;
+}
